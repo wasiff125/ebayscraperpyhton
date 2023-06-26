@@ -48,4 +48,3 @@ Contributions to the eBay scraping project are welcome! If you encounter any iss
 License
 The eBay scraping project is licensed under the MIT License. Feel free to use, modify, and distribute the code for personal or commercial purposes.
 
-Feel free to customize this README template according to your project's specific details and requirements.
