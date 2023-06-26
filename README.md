@@ -26,12 +26,8 @@ To set up the eBay scraping project, follow these steps:
 Clone the GitHub repository to your local machine:
 
 bash
-Copy code
 git clone https://github.com/wasiff125/ebayscraperpyhton.git
-Install the required dependencies using pip:
 
-Copy code
-pip install -r requirements.txt
 Usage
 Modify the scraping script (scrape.py) to customize the scraping parameters, such as the eBay category, search queries, or any specific filters you want to apply.
 Run the scraping script:
